@@ -82,3 +82,5 @@ At the same time, I learned that choosing the right compression method depends o
 ## Presentation
 
 My COMP 211 Checkoff 3 presentation slides are also included in this repository.
+
+https://app.screencastify.com/watch/DkBqIiJDh0QxlByDaCm0 (here is the link to my presentation video)
